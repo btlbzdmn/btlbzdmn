@@ -20,7 +20,7 @@ I'm passionate about exploring how software and hardware come together to solve 
 - Exploring embedded AI applications
 
 ### 🤝 Let's Connect!
-- LinkedIn: [Connect with me](www.linkedin.com/in/betül-bozduman-220788257)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/bet%C3%BCl-bozduman-220788257/)
 - GitHub: [Explore my repositories](https://github.com/btlbzdmn)
 
 *Always learning, always building, and getting a little better with every project.* 🌱
